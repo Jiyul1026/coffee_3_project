@@ -5,7 +5,7 @@
 [![Video Label](http://img.youtube.com/vi/T5u7gTr8MGk/0.jpg)](https://youtu.be/T5u7gTr8MGk)
 
 ## 최종 ppt
-https://github.com/Jiyul1026/shoppingPj_final_project/blob/master/SMARTDC.pdf
+[https://github.com/Jiyul1026/coffee_3_project/blob/master/coffee_final.pdf]
 
 ## information
 기간: 2022.02.04 ~ 2022.02.11<br>  
